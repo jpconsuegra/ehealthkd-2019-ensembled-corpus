@@ -1,4 +1,5 @@
 # Ensembled Corpus from the eHealth-KD 2019 Challenge
+[![DOI](https://zenodo.org/badge/265787322.svg)](https://zenodo.org/badge/latestdoi/265787322)
 
 The corpus is made of 8000 automatically annotated sentences. It is organized as follows:
 
