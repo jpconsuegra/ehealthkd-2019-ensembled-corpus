@@ -1,0 +1,18 @@
+Search completed: best_fn=0.619, best=
+{
+    'load-best': False,
+    'top-best': True,
+    'top-submits': 6,
+    'binary': True,
+    'weighter': 'f1',
+    'scorer': 'expert',
+    'discrete-expert': False,
+    'validator': 'constant',
+    'use-disc-threshold': False,
+    'cont-threshold': 0.21054059005160405
+}
+
+Reference score: 0.6194377510040161
+Validation score (Scenario1): 0.6498915401301519
+Validation score (Scenario2): 0.8228614685844057
+Validation score (Scenario3): 0.6070038910505836
